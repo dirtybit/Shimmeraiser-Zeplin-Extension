@@ -6,17 +6,30 @@
 
 Add the extension to your project from extensions.zeplin.io.
 
-## Output
+To run it locally, just clone the project and execute
 
+```
+ npm start 
+```
+
+It will generate a local path like <b>Extension is served from http://...</b>  
+
+Open Zeplin Extensions in your app and press 
+
+```
+option
+```
+
+It will enable a button called <b>Add Local Extension</b>, clicking there will generate a empty field, just paste the generated path there and enjoy the extension :)
+
+## Output
 
 ![Alt text](https://i.imgur.com/2GEBCMw.png)
 
+## Shimmeraiser iOS Library
 
-## Options
+https://github.com/victorpanitz/Shimmeraiser-Zeplin-Extension
 
-#### Sample option
-
-Sample option providing sample functionality.
 
 ## Development
 
