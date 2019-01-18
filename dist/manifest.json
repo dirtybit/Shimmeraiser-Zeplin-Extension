@@ -1,0 +1,11 @@
+{
+  "packageName": "Shimmeraiser-Zeplin",
+  "name": "Shimmeraiser-Zeplin",
+  "description": "Sample extension description.",
+  "version": "0.1.0",
+  "projectTypes": [
+    "ios"
+  ],
+  "moduleURL": "./main.js",
+  "readmeURL": "./README.md"
+}
