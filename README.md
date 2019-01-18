@@ -8,9 +8,9 @@ Add the extension to your project from extensions.zeplin.io.
 
 ## Output
 
-```
-sample
-```
+
+![Alt text](https://i.imgur.com/2GEBCMw.png)
+
 
 ## Options
 
