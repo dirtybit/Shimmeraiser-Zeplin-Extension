@@ -1,7 +1,11 @@
 {
   "name": "Shimmeraiser-Zeplin",
   "version": "0.1.0",
-  "description": "Sample extension description.",
+  "description": "Zeplin extension that generates Shimmaraiser path builder block.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorpanitz/Shimmeraiser-Zeplin-Extension.git"
+  },
   "scripts": {
     "start": "zem start",
     "build": "zem build",
