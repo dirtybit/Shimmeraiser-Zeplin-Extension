@@ -1,4 +1,4 @@
-# Sample Zeplin Extension
+# Shimmeraiser Zeplin Extension
 
 [Zeplin](https://zeplin.io) extension that generates sample snippets.
 
