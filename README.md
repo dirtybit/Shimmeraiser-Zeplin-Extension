@@ -1,6 +1,6 @@
 # Shimmeraiser Zeplin Extension
 
-[Zeplin](https://zeplin.io) extension that generates sample snippets.
+[Zeplin](https://zeplin.io) extension that generates Shimmaraiser path builder block.
 
 ## Getting started
 
